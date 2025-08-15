@@ -2,9 +2,6 @@
 
 A simple and interactive Tic-Tac-Toe game built with **Vue 3** and styled using **TailwindCSS**.
 
-## Live Demo
-https://anwarasry.github.io/TicTacToe/
-
 ## Goals
 
 This project serves as my introduction to **Vue 3** and **TailwindCSS**. My goal is to learn and explore these technologies by building a functional and visually appealing Tic-Tac-Toe game.
@@ -35,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnwarAsry/TicTacToe.git
+   git clone
    cd TicTacToe
    ```
 
